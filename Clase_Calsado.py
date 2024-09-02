@@ -21,7 +21,7 @@ class Zapatilla(Calsado):
         print(f" Modelo: {self.modelo} \n Materiales: {self.materiales} \n Stock: {self.stock} ")
 
 Zapatilla_1 = Zapatilla("Made In Vietnam","Nike","Caña Alta - Deportiva",16,"Goma","Impac 4","Zoom",75)
-Zapatilla_2 = Zapatilla("Made In China","Puma","Caña Media - Deportiva",37,"Goma""HyperDunk 2017","Air",25)
+Zapatilla_2 = Zapatilla("Made In China","Puma","Caña Media - Deportiva",37,"Goma","HyperDunk 2017","Air",25)
 
 Zapatilla_1.Mostrar_calsado()
 Zapatilla_2.Mostrar_calsado()
